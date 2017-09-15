@@ -1,0 +1,10 @@
+PARA INICIAR NODE
+npm init
+
+PARA INSTALAR EXPRESS(para rutas, conectar con http, etc)
+npm install express --save
+
+PARA INSTALAR SOCKET.IO(para realizar cambios en tiempo real sin actualizar)
+npm install socket.io --save
+npm install nodemon --save-dev
+
